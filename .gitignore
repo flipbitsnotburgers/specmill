@@ -1,0 +1,24 @@
+# Binaries
+specmill-server
+*.exe
+
+# Test artifacts
+coverage.out
+coverage.html
+*.test
+
+# Go build cache
+/vendor/
+
+# IDE specific files
+.idea/
+*.swp
+*.swo
+*~
+
+# VSCode MCP config (contains local paths)
+.vscode/mcp.json
+
+# OS specific
+.DS_Store
+Thumbs.db

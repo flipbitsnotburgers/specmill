@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "petstore": {
+      "command": "/home/alinrus/work/personal/specmill/specmill-server",
+      "args": ["-spec", "/home/alinrus/work/personal/specmill/examples/petstore.yaml"],
+      "env": {},
+      "disabled": false
+    }
+  }
+}
